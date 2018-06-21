@@ -1,2 +1,0 @@
-# StarGame
-Created with CodeSandbox
